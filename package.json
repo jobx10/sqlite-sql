@@ -1,0 +1,10 @@
+{
+    "name": "sqlite-web-app",
+    "version": "1.0.0",
+    "description": "A simple web app using SQLite and sql.js",
+    "scripts": {
+      "start": "echo 'No build step required' && exit 0"
+    },
+    "dependencies": {}
+  }
+  
